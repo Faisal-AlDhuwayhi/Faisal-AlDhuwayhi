@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Faisal Aldhuwayhi 👋</h1>
+<h3 align="center">A passionate developer from Saudi Arabia, who loves bulding helpful software</h3>
 
-<!--
-**Faisal-AlDhuwayhi/Faisal-AlDhuwayhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="middle"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Faisal-AlDhuwayhi&margin-w=15&margin-h=15" alt="Faisal-AlDhuwayhi" /></a></p>
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available [Here](https://github.com/Faisal-AlDhuwayhi?tab=repositories).
+- 💬 Ask me about **Java, SQL, C, Python, Machine Learning, Data Analysis**.
+- 📫 How to reach me **alduohy@hotmail.com**
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/faisal-aldhuwayhi/).
+- 🌱 I’m currently learning Deep Learning..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/faisal-aldhuwayhi/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://stackoverflow.com/users/14672218/faisal-aldhuwayhi?tab=profile" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+</p>
+
+
