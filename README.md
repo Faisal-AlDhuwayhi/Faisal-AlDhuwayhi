@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Faisal Aldhuwayhi 👋</h1>
-<h3 align="center">A passionate developer from Saudi Arabia, who loves bulding helpful software</h3>
+<h3 align="center">A passionate developer from Saudi Arabia, who loves building helpful software</h3>
 
 <p align="middle"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Faisal-AlDhuwayhi&margin-w=15&margin-h=15" alt="Faisal-AlDhuwayhi" /></a></p>
 
