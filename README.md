@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Faisal Aldhuwayhi 👋</h1>
 <h3 align="center">A passionate developer from Saudi Arabia, who loves building helpful software</h3>
 
-<p align="middle"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Faisal-AlDhuwayhi&margin-w=15&margin-h=15" alt="Faisal-AlDhuwayhi" /></a></p>
+<p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=Faisal-AlDhuwayhi&margin-w=15&margin-h=15" alt="Faisal-AlDhuwayhi" /></p>
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Faisal-AlDhuwayhi?tab=repositories).
 - 💬 Ask me about **Java, SQL, C, Python, Machine Learning, Data Analysis**.
