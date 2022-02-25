@@ -7,7 +7,6 @@
 - 💬 Ask me about **Java, SQL, C, Python, Machine Learning, Data Analysis**.
 - 📫 How to reach me **Faisal.aldhuwayhi1@gmail.com**
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/faisal-aldhuwayhi/).
-- 🌱 I’m currently learning Deep Learning..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
