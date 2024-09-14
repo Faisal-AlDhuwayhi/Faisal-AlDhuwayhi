@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there, I'm Faisal Aldhuwayhi 👋</h1>
 <h3 align="center">A passionate Data Scientist who loves building amazing data-intensive software</h3>
 
-<p align="middle"><img src="https://github-profile-trophy.vercel.app/?username=Faisal-AlDhuwayhi&margin-w=15&margin-h=15" alt="Faisal-AlDhuwayhi" /></p>
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Faisal-AlDhuwayhi?tab=repositories).
 - 💬 Ask me about **Data Science, Data Analytics, Machine Learning / Deep Learning (AI), Python, SQL, PowerBI, Etc..**.
@@ -56,16 +55,4 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/800px-FastAPI_logo.png" alt="fast-api" width="75" height="40"/> </a> &nbsp;
 <a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png" alt="docker" width="90" height="40"/> </a> &nbsp;
 <a href="https://www.postman.com/" target="_blank"> <img src="https://nocodestartup.io/wp-content/uploads/2024/01/postman-nocode.webp" alt="postman" width="40" height="40"/> </a> 
-</p>
-
-
-<p>
-<a src="https://github.com/Faisal-AlDhuwayhi">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Faisal-AlDhuwayhi&show_icons=true&theme=light&line_height=27&count_private=true" alt="Faisal's github stats"/>
-</a>
-</p>
-<p>
-<a src="https://github.com/Faisal-AlDhuwayhi">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-AlDhuwayhi" alt="Faisal's github stats"/>
-</a>
 </p>
