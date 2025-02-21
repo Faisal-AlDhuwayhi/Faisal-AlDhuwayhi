@@ -19,16 +19,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/sql.png" alt="sql" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
 </p>
-  
-<h3 align="left">Machine Learning:</h3>
-<p align="left">
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a> &nbsp;
-<a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2540px-PyTorch_logo_black.svg.png" alt="pytorch" width="75" height="35"/> </a> &nbsp;
-<a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/> </a> &nbsp;
-<a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" alt="hugging-face" width="70" height="35"/> </a> &nbsp;
-<a href="https://www.nltk.org/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/> </a>
-</p>
 
 <h3 align="left">Data Analytics & Processing:</h3>
 <p align="left">
@@ -39,6 +29,7 @@
 <a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/> </a> &nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/> </a> &nbsp;
+<a href="https://greatexpectations.io/" target="_blank"> <img src="https://legacy.017.docs.greatexpectations.io/img/gx-logo.svg" alt="Great Expectations" width="40" height="40"/> </a> &nbsp;
 </p>
 
 <h3 align="left">Data Engineering & Streaming:</h3>
@@ -47,6 +38,29 @@
 <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/401-4019613_air-flow-png-apache-airflow-logo-png-transparent.png" alt="airflow" width="75" height="40"/> </a> &nbsp;
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png" alt="kafka" width="75" height="40"/> </a> &nbsp;
 <a href="https://faust.readthedocs.io/en/latest/" target="_blank"> <img src="https://faust-streaming.github.io/faust/_static/logo.png" alt="faust" width="40" height="40"/> </a> &nbsp;
+</p>
+
+<h3 align="left">Machine Learning:</h3>
+<p align="left">
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a> &nbsp;
+<a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2540px-PyTorch_logo_black.svg.png" alt="pytorch" width="75" height="35"/> </a> &nbsp;
+<a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/> </a> &nbsp;
+<a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" alt="hugging-face" width="70" height="35"/> </a> &nbsp;
+<a href="https://www.nltk.org/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.langchain.com/" target="_blank"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain" width="40" height="40"/> </a> &nbsp;
+</p>
+
+<h3 align="left">Machine Learning Operations (MLOps):</h3>
+<p align="left">
+<a href="https://docs.pytest.org/en/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png" alt="pytest" width="40" height="40"/> </a> &nbsp;
+<a href="https://hydra.cc/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkr8HAexNN5J_x9SeVtVz3xyyDTEk3RBJJQ&s" alt="Hydra" width="40" height="40"/> </a> &nbsp;
+<a href="https://wandb.ai/site/" target="_blank"> <img src="https://wandb.ai/logo.png" alt="Weights & biases" width="40" height="40"/> </a> &nbsp;
+<a href="https://mlflow.org/" target="_blank"> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" width="50" height="40"/> </a> &nbsp;
+<a href="https://dvc.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.evidentlyai.com/" target="_blank"> <img src="https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/66180fbf4f40e9ed73ca2d39_evidently_ai_logo_fi.png" alt="Evidently AI" width="80" height="40"/> </a> &nbsp;
+<a href="https://github.com/dssg/aequitas" target="_blank"> <img src="https://dssg.github.io/aequitas/_images/aequitas_header.png" alt="Aequitas" width="90" height="40"/> </a> &nbsp;
+<a href="https://www.zenml.io/" target="_blank"> <img src="https://raw.githubusercontent.com/zenml-io/zenml/main/docs/book/.gitbook/assets/zenml_logo.png" alt="ZenML" width="100" height="40"/> </a> &nbsp;
 </p>
 
 <h3 align="left">Others:</h3>
